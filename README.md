@@ -1,2 +1,2 @@
-# CP-AlgorithmsSol
-solutions of questions of cpalgorithms
+# CP-ProblemSol
+solutions of questions of competitive programming platforms.
